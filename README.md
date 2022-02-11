@@ -22,7 +22,7 @@ Currently I'm reading The Elements of Statistical Learning (Hastie, Tibshirani, 
 
 - [Stack Overflow profile](https://stackoverflow.com/users/12369910/eli-johnson)
 - [Math Stack Exchange profile](https://math.stackexchange.com/users/212906/eli-johnson)
-- ![Project Euler](https://projecteuler.net/profile/biciclub.png)
+- Project Euler (mathy coding challenges) <img align="center" width="160" height="45" src="https://projecteuler.net/profile/biciclub.png">
 
 #### Contact me
 
