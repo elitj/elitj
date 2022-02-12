@@ -10,9 +10,11 @@ I'm Eli Johnson, and I love finding patterns in data and illuminating them.  Cur
 - Document it all as I go!
 
 #### Education
-Previously, I studied math at the University of Washington, where I also taught calculus and differential equations.  
+I studied math at the University of Washington, where I earned an MS in Mathematics. I also taught calculus and differential equations there.  
 
-Here's [my thesis](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwiqmeDC7t31AhVJkokEHVM1AukQFnoECAoQAQ&url=https%3A%2F%2Fdigital.lib.washington.edu%2Fresearchworks%2Fbitstream%2Fhandle%2F1773%2F44375%2FJohnson_washington_0250O_20487.pdf%3Fsequence%3D1%26isAllowed%3Dy&usg=AOvVaw0HYsbQ0t7AMb1FIhmnj4SP).  It's quite technical, but it also has some nice pictures (generated using Sagemath and Geogebra).
+I got my BA in Mathematics and American Indian Studies (double major) from the University of Minnesota.
+
+Here's [my Master's thesis](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwiqmeDC7t31AhVJkokEHVM1AukQFnoECAoQAQ&url=https%3A%2F%2Fdigital.lib.washington.edu%2Fresearchworks%2Fbitstream%2Fhandle%2F1773%2F44375%2FJohnson_washington_0250O_20487.pdf%3Fsequence%3D1%26isAllowed%3Dy&usg=AOvVaw0HYsbQ0t7AMb1FIhmnj4SP).  It's quite technical, but it also has some nice pictures (generated using Sagemath and Geogebra).
 Mathematicians have been using a model called the Abelian Sandpile to study systems that are in a sense barely stable (and might show a large response to small changes).  Sandpiles have been used to analyze everything from forest fires to the stock market to neural activity in the brain.  My thesis describes a way to compute sandpile changes much more efficiently by exploiting symmetries in the initial "picture".  It also analyzes the properties of sandpiles on a hexagonal grid.
 
 #### Current Projects
