@@ -1,6 +1,9 @@
 ### About me
 #### Current Work
-I'm Eli Johnson, and I love finding patterns in data and illuminating them.  Currently I work at Downtown Emergency Service Center (DESC) as a Data and Reports Specialist.  In my position, I:
+I'm Eli Johnson, and I love finding patterns in data and illuminating them.  Currently I work at the International Association of Better Business Bureaus (IABBB) as a data analyst.  Previously I worked at Downtown Emergency Service Center (DESC) in Seattle as a data specialist.
+
+<!---
+  In my position, I:
 
 - Write and maintain queries (both ad hoc and dedicated) to help staff better understand the clients we serve
 - Build new features into a proprietary Electronic Health Record (EHR) with over 100,000 unique clients
@@ -8,6 +11,7 @@ I'm Eli Johnson, and I love finding patterns in data and illuminating them.  Cur
 - Troubleshoot, resolve and prevent errors arising from these data interfaces
 - Ensure data integrity, security, and compliance with HIPAA and other regulations
 - Document it all as I go!
+--->
 
 #### Education
 I studied math at the University of Washington, where I earned an MS in Mathematics. I also taught calculus and differential equations there.  
@@ -28,7 +32,7 @@ Currently I'm reading The Elements of Statistical Learning (Hastie, Tibshirani, 
 
 #### Contact me
 
-elitj@gmail.com
+eli.timothy@gmail.com
 
 <!---
 - 👋 Hi, I’m @elitj
